@@ -2,11 +2,11 @@
 
 
 Greetings! I am @JonnerPaz, an enthusiast self-taught frontend developer (on-going), looking to jump up into tech industry. I have found my passion of
-tech and all about it since a few years ago and since then this world have become a hobbie which reachs deep inside me.
+tech and all about it since a few years ago and this world have become a hobbie which reachs deep inside me.
 
 ## Technologies
 
-### Skilfull
+### Set of skills
 
 - HTML
 - CSS
@@ -16,7 +16,6 @@ tech and all about it since a few years ago and since then this world have becom
 ### Learning
 
 - Javascript
-- (more coming)
 
 ## Networking
 
