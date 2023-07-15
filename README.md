@@ -1,8 +1,8 @@
 # About me
 
+<img align="center" src="img/jonner.jpg">
 
-Greetings! I am @JonnerPaz, an enthusiast self-taught frontend developer (on-going), looking to jump up into tech industry. I have found my passion of
-tech and all about it since a few years ago and this world have become a hobbie which reachs deep inside me.
+Greetings! I am @JonnerPaz, an enthusiast self-taught frontend developer, looking to jump up into tech industry. I have found my passion of tech and all about it since 2022 and this world have become a hobbie which reachs deep inside me. Never stop learning, never stop coding.
 
 ## Technologies
 
