@@ -27,7 +27,7 @@ Greetings! I am @JonnerPaz, an enthusiast self-taught frontend developer, lookin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,linux,neovim,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,git,linux,neovim,vscode" />
   </a>
 </p>
 
