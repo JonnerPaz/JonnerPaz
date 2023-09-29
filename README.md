@@ -19,7 +19,6 @@ Greetings! I am @JonnerPaz, an enthusiast self-taught frontend developer, lookin
 ## 2023 goals:
 
 - 💥 React.js
-- ⭐ Sass
 - ⭐ Tailwind CSS
 - 🤝 Colaborate on open source proyects
 
