@@ -16,17 +16,18 @@ Greetings! I am @JonnerPaz, an enthusiast self-taught frontend developer, lookin
   </a>
 </p>
 
-## 2023 goals:
+## 2024 goals:
 
 - 💥 React.js
-- ⭐ Tailwind CSS
+- 💥 Typescript
+- ⭐ NodeJS
 - 🤝 Colaborate on open source proyects
 
 ## Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,git,linux,neovim,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,git,linux,neovim,vscode" />
   </a>
 </p>
 
