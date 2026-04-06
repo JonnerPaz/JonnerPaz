@@ -16,12 +16,10 @@ Greetings! I am @JonnerPaz, an enthusiast self-taught full-stack developer, look
   </a>
 </p>
 
-## 2025 goals:
+## 2026 goals:
 
-- 💥 Java
-- ⭐ Spring Boot
-- ⭐ NodeJS
-- ⭐ SQL
+- 💥 Design systems
+- ⭐ AI
 
 ## Technologies
 
